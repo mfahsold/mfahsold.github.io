@@ -4,3 +4,4 @@ Allow: /
 
 Sitemap: https://mfahsold.github.io/sitemap.xml
 Sitemap: https://mfahsold.github.io/lixity/sitemap.xml
+Sitemap: https://mfahsold.github.io/montage-ai/sitemap.xml
