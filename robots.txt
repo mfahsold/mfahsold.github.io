@@ -1,0 +1,6 @@
+# https://mfahsold.github.io/ — host root for GitHub Pages project sites.
+User-agent: *
+Allow: /
+
+Sitemap: https://mfahsold.github.io/sitemap.xml
+Sitemap: https://mfahsold.github.io/lixity/sitemap.xml
